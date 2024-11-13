@@ -1,6 +1,6 @@
 # Curso de JavaScript: Desenvolvimento de um site de cardápio completo
 
-![](imagens/print.png)
+![](img/imagens-do-projeto/print.png)
 
 
 ## Índice
