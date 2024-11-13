@@ -9,6 +9,7 @@
 3. [Funcionalidades](#funcionalidades)
 4. [Tecnologias Utilizadas](#tecnologias-utilizadas)
 5. [Conheça o projeto](#Conheça-o-projeto)
+5. [Objetivo final do projeto](#Objetivo-final-do-projeto)
 
 ## Descrição do Projeto
 Este projeto teve como objetivo desenvolver um site completo para um restaurante, oferecendo uma experiência de usuário rica e interativa. O site inclui uma landing page atrativa, funcionalidades de carrinho de compras e um cardápio completo, além de permitir que os clientes façam reservas diretamente pelo site. A interface é responsiva, garantindo uma ótima experiência em dispositivos móveis e desktops.
@@ -56,7 +57,7 @@ Projeto desenvolvido com o intuito de aprimorar meus conhecimentos e me desenvol
 - Ao concluir este projeto, o restaurante terá um site completo e funcional, proporcionando uma excelente experiência para os clientes e facilitando a gestão de reservas e pedidos online. O design responsivo e as diversas funcionalidades implementadas garantirão que o site atenda às necessidades do restaurante e de seus clientes.
 
 ## Tecnologias Utilizadas 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="	https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> 
 
 ## [Conheça o projeto](https://antonybsb.github.io/cardapioOnline/) 
 
