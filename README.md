@@ -25,6 +25,7 @@ Projeto desenvolvido com o intuito de aprimorar meus conhecimentos e me desenvol
 - Sessão de depoimentos
 - Ligação pelo telefone
 - Design responsivo
+- Integração com API busca CEP e WhatsApp
 
 
 
